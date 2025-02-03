@@ -2,7 +2,7 @@ In this assignment we made diferent equations
 to find the value.
 At least 10 Equations.
 
-<!-- IMPORTANT -->
+=== IMPORTANT ===
 
 * A Double data type in C is used to store decimal numbers (numbers with floating point values) with double precision. It is used to define numeric values which hold numbers with decimal values in C.
 * For Double:
